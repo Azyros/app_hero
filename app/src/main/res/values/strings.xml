@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">app_hero</string>
+        <array name="team">
+            <item>Avenger</item>
+            <item>X-men</item>
+            <item>x-noia</item>
+            <item>x-tudo</item>
+        </array>
+</resources>
